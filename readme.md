@@ -1,9 +1,11 @@
 
-Royex is a Human Resource and payroll management software. For maintaining HR & Payroll department of any company
+Beanola Technologies HRMS is a Human Resource and payroll management software. For maintaining HR & Payroll department of any company
 
-##Royex - Human Resource and Payroll Management Software
+
+Beanola Technologies - Human Resource and Payroll Management Software
+
+
 Documentation:
-Online Documentation
 Human Resource and payroll management
 
     Dashboard
@@ -78,7 +80,7 @@ How to setup or Install
         DB_PASSWORD: Password of your Database User
         Make Sure You Have Selected PHP version above 5.6.4
 
-Advantage of Royex
+Advantage of Beanola ERP
 
     Nice and Simple Design
     Dashboard with whole software at a glance
